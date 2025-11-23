@@ -1,0 +1,165 @@
+# 📘 DISCRETE MATHEMATICS – EXAM PREP CHECKLIST  
+(with FULL repeated past-paper questions)
+
+---
+
+# ✅ UNIT 1 – SETS & RELATIONS
+
+## 📌 Important Topics
+- [ ] Set identities & laws
+- [ ] Analytical proof of identities
+- [ ] Poset definition
+- [ ] Hasse diagram construction
+- [ ] Partial order proof
+- [ ] Equivalence class
+- [ ] Properties of relations
+
+---
+
+## 🔥 FULL Repeated Questions
+
+### Analytical Set Identity Proofs
+- [ ] **“Prove both set identities analytically, that  A ∩ (B − C) = (A ∩ B) − (A ∩ C).”**  (May 2024, Q21a)
+- [ ] **“Prove the following statement analytically, where A, B and C are sets and verify it using set identities. (A ∩ B) − C = (A − C) ∩ (B − C)”** (July 2024 Q21a)
+- [ ] **“If A, B and C are sets, prove analytically that A – (B ∩ C) = (A – B) ∪ (A – C).”** (July 2025 Q27(i))
+
+### Hasse Diagram Repeats
+- [ ] **“Draw the Hasse diagram for the partial ordering P={(a,b)/‘a divides b’} on {1,2,3,4,5,6,7,8} and prove that P is a partial ordered relation.”** (May 2024 Q21b)
+- [ ] **“Draw the Hasse diagram for the divisibility relation on {2,4,5,10,12,20,25} and prove the relation is partial ordered.”** (July 2024 Q21b)
+- [ ] **“Draw the Hasse diagram representing the relation {(A,B)/A ≤ B} on the power set P(S) where S={a,b,c}.”** (Nov 2024 Q21b)
+
+---
+
+## 🔁 Revision
+- [ ] redo 3 Hasse diagrams
+- [ ] re-memorize set identity laws
+- [ ] redo all 3 analytical proofs
+
+
+---
+
+# ✅ UNIT 2 – FUNCTIONS / PIGEONHOLE / EUCLID
+
+## 📌 Important Topics
+- [ ] Pigeonhole principle
+- [ ] Counting + permutations
+- [ ] Functions: 1-1 / onto
+- [ ] Euclid algorithm
+- [ ] expressing gcd = ax+by
+
+---
+
+## 🔥 FULL Repeated Questions
+
+### Euclid Algorithm
+- [ ] **“Use Euclidean algorithm to find integers m and n such that 512m + 320n = 64.”** (Dec 2023 Q22) 
+- [ ] **“Use Euclidean algorithm to find the integers m and n such that 28844m + 15712n = 4.”** (May 2024 Q22b)
+- [ ] **“Use the Euclidean algorithm to find integers m and n such that 512m + 320m = 64.”** (July 2024 Q22b)
+- [ ] **“Use Euclidean division algorithm to find the gcd of (18,19,35,87). Also express the gcd as a linear combination.”** (May 2025 Q22b)
+- [ ] **“Use Euclidean algorithm find the integers x and y such that 154x + 250y = 2.”** (July 2025 Q22a)
+
+### Pigeonhole repeated
+- [ ] **“In how many ways 7 persons can be seated round a table?”**
+- [ ] **“What is the minimum number of students required so that 4 of them are guaranteed same grade?”**
+- [ ] **“In how many different ways 7 beads can be arranged to form a necklace?”**
+
+---
+
+## 🔁 Revision
+- [ ] redo 4 Euclid past questions
+- [ ] redo 3 pigeonhole questions
+- [ ] redo 3 table/arrangement questions
+
+
+---
+
+# ✅ UNIT 3 – LOGIC & PROOF
+
+## 📌 Important Topics
+- [ ] Rules of inference
+- [ ] Invalid argument proof
+- [ ] Indirect proof
+- [ ] Contradiction proof
+- [ ] Inconsistency proof
+- [ ] tautology
+
+---
+
+## 🔥 FULL Repeated Questions
+
+- [ ] **“Show that the premises p→q, q→¬r, r, therefore p∨(t∧s) are inconsistent.”**
+- [ ] **“Construct an argument using rules of inference to show the hypotheses ‘Rama works hard…’ and conclude ‘Rama will not get a job’.”**
+- [ ] **“Prove that the premises p→q, q→r, s→r and p∧s are inconsistent.”** (May 2024 Q23b)
+- [ ] **“Show that the following set of statements is inconsistent: If Rama gets his degree…etc.”** (Jan 2024 / May 2025 multiple repeats)
+
+---
+
+## 🔁 Revision
+- [ ] rewrite 2 inconsistency proofs
+- [ ] redo 2 conclusion-derivation questions
+
+
+---
+
+# ✅ UNIT 4 – GROUP THEORY
+
+## 📌 Important Topics
+- [ ] subgroup tests
+- [ ] abelian proofs
+- [ ] cyclic subgroup results
+- [ ] induction proof
+
+---
+
+## 🔥 FULL Repeated Questions
+
+- [ ] **“Prove that the necessary and sufficient condition for a subset H of a group (G,*) to be subgroup is a,b∈H ⇒ a*b⁻¹∈H.”**
+- [ ] **“If * is defined on R such that a*b=a+b−ab prove that (R,*) is abelian.”** (July 2024 / Nov 2024)
+- [ ] **“Prove by mathematical induction that 8ⁿ−3ⁿ is divisible by 5 for n≥1.”** (Nov 2024, May 2025)
+- [ ] **“Prove that every subgroup of a cyclic group is cyclic.”** (July 2024 Q24)
+
+---
+
+## 🔁 Revision
+- [ ] 3 subgroup proofs
+- [ ] 2 abelian proofs
+- [ ] 2 induction proofs
+
+
+---
+
+# ✅ UNIT 5 – GRAPH + CODING THEORY
+
+## 📌 Important Topics
+- [ ] Kruskal MST
+- [ ] Warshall closure
+- [ ] generator matrix → codewords
+- [ ] parity matrix
+- [ ] decoding messages
+- [ ] Hamming distance
+
+---
+
+## 🔥 FULL Repeated Questions
+
+### MST
+- [ ] **“Find the minimum spanning tree for the following weighted graph using Kruskal’s algorithm.”**  
+(appears in May 2024, Jan 2024, July 2024, May 2025)
+
+### Warshall
+- [ ] **“Let R={(1,2),(1,5),(2,2),(3,3),(3,4),(4,4),(5,1),(5,5)} find the transitive closure using Warshall algorithm.”**
+
+### Coding Theory
+- [ ] **“Find the code words generated by the parity check matrix H = (matrix).”**  
+- [ ] **“Find the code words generated by generator matrix G and decode received words.”**  
+- [ ] **“Find the minimum distance between codes x and y.”**  
+
+---
+
+## 🔁 Revision
+- [ ] redo 3 MST problems
+- [ ] redo 3 Warshall closures
+- [ ] redo 3 coding questions
+
+
+---
